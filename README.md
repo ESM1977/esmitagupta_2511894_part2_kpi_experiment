@@ -45,5 +45,6 @@ The required evidence includes:
 •	Whether guardrail metrics did not show negative impact
 •	Whether the sample size is sufficient to support the decision
 •	Whether results are consistent across important user segments
+
 If the Treatment group improves conversion and engagement without harming guardrail metrics, the campaign can be recommended for full rollout. If results are weak, mixed, or show negative side effects, the company should either continue testing, modify the campaign, or retain the existing onboarding experience.
 
